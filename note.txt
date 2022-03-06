@@ -11,7 +11,21 @@ II. Steps
 
 III. Info
 - personal access token: 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
-- email: caovanducs@gmail.com | tcvduc.io@gmail.com
-- password: 0908011888Duc | \ . X :;123
+
++ Github account 
+- email: caovanducs@gmail.com
+- password: 0908011888Duc
+- username: tcvduc
+
++ npm account 
+- email: tcvduc.io@gmail.com
+- password: \ . X :;123
 - username: tcvduc
 - repository: git://github.com/my-org/test.git
+
+
+- email: caovanducs.io@gmail.com
+- password: \ . X :;123
+- username: duccao
+
+- xlG4qH8WOep+Kc4p+IvEhR/1Rmk=
